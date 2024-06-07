@@ -1,4 +1,4 @@
-### Codespace for [6.9. Lab: Exploiting log4j]([https://web.njit.edu/~rt494/security/#_lab_mitm_with_scapy](https://web.njit.edu/~rt494/security/#_lab_exploiting_log4j))
+### Codespace for [6.9. Lab: Exploiting log4j](https://web.njit.edu/~rt494/security/#_lab_exploiting_log4j)
 
 ## Computer Systems Security: Planning for Success by Ryan Tolboom
 
